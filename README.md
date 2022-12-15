@@ -1,4 +1,4 @@
-# Ultima Rust 1 - The Rust Ecosystem (Condensed)
+# Ultimate Rust 1 - The Rust Ecosystem (Condensed)
 
 Code to accompany Ardan Labs' Ultimate Rust 1
 
